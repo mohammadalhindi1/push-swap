@@ -23,3 +23,9 @@ The challenge is to find the most efficient algorithm to minimize the total numb
 $ ./push_swap 3 2 1
 sa
 rra
+
+**From Mohammad Alhindi**
+───────────────────────────────
+© 2025 Mohammad Alhindi — All Rights Reserved  
+Reusing or copying this code without permission is not cool — be original.
+───────────────────────────────
